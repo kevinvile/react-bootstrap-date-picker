@@ -25,7 +25,6 @@
   ],
   "plugins": ["react"],
   "rules": {
-    "indent": ["error", 2, { "SwitchCase": 1 }],
     "jsx-quotes": ["error", "prefer-double"],
     "keyword-spacing": ["error", { "after": true }],
     "no-console": "warn",
