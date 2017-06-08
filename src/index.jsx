@@ -444,7 +444,7 @@ DatePicker.propTypes = {
 		PropTypes.string,
 		PropTypes.object
 	]),
-	calendarPlacement: React.PropTypes.oneOfType([
+	calendarPlacement: PropTypes.oneOfType([
 		PropTypes.string,
 		PropTypes.func
 	]),
