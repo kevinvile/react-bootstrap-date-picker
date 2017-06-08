@@ -18,7 +18,7 @@
   },
   "peerDependencies": {
     "react": ">=0.14.0",
-    "react-bootstrap": "^0.30.8"
+    "react-bootstrap": "^0.31.0"
   },
   "devDependencies": {
     "assert": "^1.4.1",
@@ -54,7 +54,7 @@
     "node-uuid": "^1.4.7",
     "react": "^15.4.2",
     "react-addons-test-utils": "^15.4.2",
-    "react-bootstrap": "^0.30.8",
+    "react-bootstrap": "^0.31.0",
     "react-dom": "^15.4.2",
     "regenerator": "^0.8.46",
     "regenerator-loader": "^3.1.0",
